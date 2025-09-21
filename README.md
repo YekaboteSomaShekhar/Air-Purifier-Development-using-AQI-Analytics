@@ -17,9 +17,9 @@ The company faces several critical questions that must be answered to ensure mar
 ## Objective
 The primary objective of this project is to assess the **market feasibility** and **consumer demand** for air purifiers in India before committing to large-scale production and R&D. This will be achieved by analyzing three key dimensions:
 
-**Severity Mapping**: Identify cities with high or worsening AQI levels.  
-**Health Impact**: Measure pollution-related health burden and its effect on consumers.  
-**Demand Triggers**: Analyze how pollution spikes drive air purifier demand.
++ **Severity Mapping**: Identify cities with high or worsening AQI levels.  
++ **Health Impact**: Measure pollution-related health burden and its effect on consumers.  
++ **Demand Triggers**: Analyze how pollution spikes drive air purifier demand.
 
 ## Dashboard
 
