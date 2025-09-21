@@ -52,7 +52,7 @@ The primary objective of this project is to assess the **market feasibility** an
 ## 🛠 Tools Used
 
 + Excel: Data Cleaning and Validation purpose.
-+ Power BI: For Data Visualization and Transformations. 
++ Power BI: For Data Visualization and data modeling, DAX Calculations. 
 
 ## 🔗 Live Dashboard link:
 
