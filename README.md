@@ -49,7 +49,7 @@ The primary objective of this project is to assess the **market feasibility** an
 + Less dense states like Arunachal Pradesh, Meghalaya, Andaman & Nicobar report cleaner air.
 + Policies targeting clean energy, EV incentives and pollution control are in place.
 
-## Tools Used
+## 🛠 Tools Used
 
 + Excel: Data Cleaning and Validation purpose.
 + Power BI: For Data Visualization and Transformations. 
