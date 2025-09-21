@@ -25,12 +25,16 @@ The primary objective of this project is to assess the **market feasibility** an
 
 + Home page:
 <img width="1164" height="653" alt="Screenshot 2025-09-21 141617" src="https://github.com/user-attachments/assets/c5833a0a-c4e3-4d75-a2d3-ceeecbe7c0fc" />
+
 + Severity Mapping:
 <img width="1162" height="649" alt="Screenshot 2025-09-21 141933" src="https://github.com/user-attachments/assets/3a72d6f8-050f-4bab-91dc-81f72dffcdab" />
+
 + Air Quality & Health Impact:
 <img width="1158" height="652" alt="Screenshot 2025-09-21 142109" src="https://github.com/user-attachments/assets/2422fec9-71a9-4f4d-afbc-a6df6ce8b4c3" />
+
 + EV vs AQI:
 <img width="1158" height="649" alt="Screenshot 2025-09-21 142241" src="https://github.com/user-attachments/assets/c58adda6-3353-4eea-b45a-3205657069e3" />
+
 + Policy Insights:
 <img width="1162" height="648" alt="Screenshot 2025-09-21 142342" src="https://github.com/user-attachments/assets/f7e0b31b-bb4e-424a-a62d-ab252de75bd6" />
 
