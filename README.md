@@ -1,11 +1,11 @@
 # Air-Purifier-Development-using-AQI-Analytics
 
-## Project Overview
+## 🔍 Project Overview
 
 **AirPure Innovations** is addressing the air quality crisis in India, where 14 cities are among the world’s top 20 most polluted. The company is in the early stages of product development, working on an air purifier
 solution. Before committing to R&D and production, the team is focused on validating sustained customer demand.
 
-## Problem Statement
+## 📌 Problem Statement
 
 The company faces several critical questions that must be answered to ensure market readiness and product relevance:
 
@@ -14,7 +14,7 @@ The company faces several critical questions that must be answered to ensure mar
 + Which cities have the highest demand for air purifiers, and what is the market size in these regions?
 + How can R&D be aligned with localized pollution patterns?
 
-## Objective
+## 🎯 Objective
 The primary objective of this project is to assess the **market feasibility** and **consumer demand** for air purifiers in India before committing to large-scale production and R&D. This will be achieved by analyzing three key dimensions:
 
 + **Severity Mapping**: Identify cities with high or worsening AQI levels.  
