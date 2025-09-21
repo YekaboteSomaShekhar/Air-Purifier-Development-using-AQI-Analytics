@@ -44,7 +44,7 @@ The primary objective of this project is to assess the **market feasibility** an
 + States like Delhi, Haryana, and Bihar show higher AQI values.
 + PM2.5 & PM10 are the most critical pollutants, especially in northern states, due to vehicular emissions, construction, and crop residue burning.
 + Chennai and Bengaluru show better air quality (74.43 and 75.51).
-+ Top 5 States with Higher Adoption: Uttar Pradesh, Tamil Nadu, Maharashtra, Karnataka and Bihar.
++ Top 5 States with Higher EV Adoption: Uttar Pradesh, Tamil Nadu, Maharashtra, Karnataka and Bihar.
 + Water-borne and pollution-related illnesses dominate across states.
 + Less dense states like Arunachal Pradesh, Meghalaya, Andaman & Nicobar report cleaner air.
 + Policies targeting clean energy, EV incentives and pollution control are in place.
