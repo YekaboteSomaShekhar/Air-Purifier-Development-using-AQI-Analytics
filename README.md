@@ -22,6 +22,8 @@ The primary objective of this project is to assess the **market feasibility** an
 + **Demand Triggers**: Analyze how pollution spikes drive air purifier demand.
 
 ## 📊 Dashboard
++ **Data Modeling**:
+<img width="912" height="671" alt="Screenshot 2025-09-21 152127" src="https://github.com/user-attachments/assets/fe9ce14d-9847-4aef-93d6-599a3cde30e6" />
 
 + **Home page**:
 <img width="1164" height="653" alt="Screenshot 2025-09-21 141617" src="https://github.com/user-attachments/assets/c5833a0a-c4e3-4d75-a2d3-ceeecbe7c0fc" />
