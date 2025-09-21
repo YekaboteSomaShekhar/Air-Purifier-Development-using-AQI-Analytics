@@ -47,6 +47,7 @@ The primary objective of this project is to assess the **market feasibility** an
 + Top 5 States with Higher Adoption: Uttar Pradesh, Tamil Nadu, Maharashtra, Karnataka and Bihar.
 + Water-borne and pollution-related illnesses dominate across states.
 + Less dense states like Arunachal Pradesh, Meghalaya, Andaman & Nicobar report cleaner air.
++ Policies targeting clean energy, EV incentives and pollution control are in place.
 
 
 
