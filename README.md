@@ -26,6 +26,7 @@ The primary objective of this project is to assess the **market feasibility** an
 + **Home page**:
 <img width="1164" height="653" alt="Screenshot 2025-09-21 141617" src="https://github.com/user-attachments/assets/c5833a0a-c4e3-4d75-a2d3-ceeecbe7c0fc" />
 
+
 + **Severity Mapping**:
 <img width="1162" height="649" alt="Screenshot 2025-09-21 141933" src="https://github.com/user-attachments/assets/3a72d6f8-050f-4bab-91dc-81f72dffcdab" />
 
