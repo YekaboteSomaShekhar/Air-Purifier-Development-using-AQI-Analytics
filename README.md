@@ -26,7 +26,6 @@ The primary objective of this project is to assess the **market feasibility** an
 + **Home page**:
 <img width="1164" height="653" alt="Screenshot 2025-09-21 141617" src="https://github.com/user-attachments/assets/c5833a0a-c4e3-4d75-a2d3-ceeecbe7c0fc" />
 
-
 + **Severity Mapping**:
 <img width="1162" height="649" alt="Screenshot 2025-09-21 141933" src="https://github.com/user-attachments/assets/3a72d6f8-050f-4bab-91dc-81f72dffcdab" />
 
@@ -39,7 +38,15 @@ The primary objective of this project is to assess the **market feasibility** an
 + **Policy Insights**:
 <img width="1162" height="648" alt="Screenshot 2025-09-21 142342" src="https://github.com/user-attachments/assets/f7e0b31b-bb4e-424a-a62d-ab252de75bd6" />
 
+**Insights Delivered**:
 
++ **Max AQI Value**: 500, indicating severe pollution in some areas.
++ States like Delhi, Haryana, and Bihar show higher AQI values.
++ PM2.5 & PM10 are the most critical pollutants, especially in northern states, due to vehicular emissions, construction, and crop residue burning.
++ Chennai and Bengaluru show better air quality (74.43 and 75.51).
++ Top 5 States with Higher Adoption: Uttar Pradesh, Tamil Nadu, Maharashtra, Karnataka and Bihar.
++ Water-borne and pollution-related illnesses dominate across states.
++ Less dense states like Arunachal Pradesh, Meghalaya, Andaman & Nicobar report cleaner air.
 
 
 
